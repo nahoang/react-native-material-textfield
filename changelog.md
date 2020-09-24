@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+
+## [0.16.2] - 2020-09-24
+- Change Animated.Texts proptypes to Texts proptypes
+
 - `bottom` key for `contentInset` prop
 
 ## [0.16.0] - 2019-10-24
