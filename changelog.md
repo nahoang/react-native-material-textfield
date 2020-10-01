@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+## [0.16.3] - 2020-10-01
+- Add useNativeDriver props.
 
 ## [0.16.2] - 2020-09-24
 - Change Animated.Texts proptypes to Texts proptypes
